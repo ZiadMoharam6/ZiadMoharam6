@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ziad Moharam 👋</h1>
+<h1 align="center">Hi, I'm Ziad Moharam </h1>
 <p align="center">
   CS student at the <b>German International University (GIU)</b>, Cairo · Class of 2028<br/>
   Data Science · Software Engineering · Information Security · Distributed Systems
